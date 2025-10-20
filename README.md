@@ -57,6 +57,7 @@ I am currently working on something else, but when I come back I plan to add:
 - An **Advanced Detection** mode that's able to more accurate detect activities even specific webpages.
 - A possible port from WPF to Avalonia to allow for Linux support.
 - Enhanced documentation for a smoother community contribution process.
+- OPTIONAL OneDrive / google drive implementation for cross device activities share
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
